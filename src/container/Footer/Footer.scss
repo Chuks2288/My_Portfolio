@@ -150,5 +150,7 @@
         background: green;
         color: white;
     }
-
+    @media(max-width: 768px){
+        padding: .3rem 2rem;
+    }
 }
