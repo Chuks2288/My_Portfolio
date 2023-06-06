@@ -18,7 +18,7 @@ export const abouts = [
 
 export const works = [
     {
-        id: 1, title: 'Frontend And Admin-Backend-Dashboard', description: 'Admin Login:(Username: Admin, Password: admin), Employee Login:(Username: Employee, Password: employee)  ',
+        id: 1, title: 'Frontend And Admin-Backend-Dashboard', description: 'Admin Login:(Username: Admin, Pwd: admin), Employee Login:(Username: Employee, Pwd: employee)  ',
         projectLink: 'https://technotes-zj27.onrender.com', codeLink: 'https://github.com/Chuks2288/technotes', imgUrl: images.ChuksRepairs
     },
     {
