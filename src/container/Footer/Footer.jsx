@@ -84,10 +84,12 @@ const Footer = () => {
                 </div>
             )}
 
+        <div>
             <div className="Footer__social-media">
                 <a href='https://www.linkedin.com/in/chuks-dumbiri-38197419a'><BsLinkedin /></a>
                 <a href='https://github.com/Chuks2288/'><BsGithub /></a>
             </div>
+        </div>
         </>
     );
 };
