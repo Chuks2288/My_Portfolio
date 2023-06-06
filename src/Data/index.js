@@ -23,11 +23,11 @@ export const works = [
     },
     {
         id: 2, title: 'Admin Dashboard With CRUD functionality', description: 'An Exceptional Front-end functional Admin Dashboard Development',
-        projectLink: 'https://cheery-gingersnap-bf965d.netlify.app/', codeLink: 'https://github.com/Chuks2288/restaurant', imgUrl: images.Dashboard
+        projectLink: 'https://cheery-gingersnap-bf965d.netlify.app/', codeLink: 'https://github.com/Chuks2288/dashboard-cmd', imgUrl: images.Dashboard
     },
     {
         id: 3, title: 'Youtube Clone', description: 'An Exceptional Youtube-Clone Front-end Development',
-        projectLink: 'https://zesty-parfait-5f815f.netlify.app/', codeLink: 'https://github.com/Chuks2288/restaurant', imgUrl: images.Youtube
+        projectLink: 'https://zesty-parfait-5f815f.netlify.app/', codeLink: 'https://github.com/Chuks2288/youtube-clone', imgUrl: images.Youtube
     },
     {
         id: 4, title: 'Restaurant Website', description: 'An Exceptional Front-end Development',
