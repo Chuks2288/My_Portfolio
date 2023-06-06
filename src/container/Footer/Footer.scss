@@ -70,7 +70,7 @@
 }
 
 .app__footer-form {
-    width: 60%;
+    width: 75%;
     flex-direction: column;
     margin: 1rem 2rem;
 
@@ -133,7 +133,7 @@
 
 
 .btn-submit {
-    padding: .5rem 3rem;
+    padding: .6rem 4rem;
     cursor: pointer;
     border: 1px solid purple;
     outline: none;
@@ -148,7 +148,7 @@
         color: white;
     }
     @media(max-width: 768px){
-        padding: .3rem 2rem;
+        padding: .3rem 3rem;
     }
 }
 
@@ -157,7 +157,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding: 3rem 0;
+    padding: 2rem 0;
 
 
     a {
