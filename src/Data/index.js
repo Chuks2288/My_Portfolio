@@ -34,7 +34,7 @@ export const works = [
         projectLink: 'https://luminous-travesseiro-4b4cbd.netlify.app/', codeLink: 'https://github.com/Chuks2288/restaurant', imgUrl: images.Resta
     },
     {
-        id: 5, title: 'Hoobank Website Clone', description: 'An Exceptional Front-end Development',
+        id: 5, title: 'Hoobank Website Clone', description: 'An Exceptional Frontend Development',
         projectLink: 'https://vermillion-dusk-c1623b.netlify.app/', codeLink: 'https://github.com/Chuks2288/Hoobank-Clone', imgUrl: images.Hoobank
     },
     {
