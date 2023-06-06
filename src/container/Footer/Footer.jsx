@@ -4,6 +4,7 @@ import { images } from '../../constants';
 import { AppWrap, MotionWrap } from '../../wrapper';
 import { client } from '../../client';
 import './Footer.scss';
+import { BsGithub, BsLinkedin } from 'react-icons/bs';
 
 
 import emailjs from '@emailjs/browser';
@@ -82,6 +83,11 @@ const Footer = () => {
                     </h3>
                 </div>
             )}
+
+<div className="Footer__social-media">
+                <a href='https://www.linkedin.com/in/chuks-dumbiri-38197419a'><BsLinkedin /></a>
+                <a href='https://github.com/Chuks2288/'><BsGithub /></a>
+            </div>
         </>
     );
 };
