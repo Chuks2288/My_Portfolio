@@ -72,9 +72,9 @@ const Footer = () => {
                         />
                     </div>
                     {/* <input type="submit" value="Send" className="p-text btn-submit" /> */}
-                    <button type="submit" value={!loading ? 'Send' : 'Sending'} className="p-text btn-submit"
+                    <input type="submit" value={!loading ? 'Send' : 'Sending'} className="p-text btn-submit"
                         onClick={handleClick}
-                    </button>
+                    />
                 </form>
             ) : (
                 <div>
