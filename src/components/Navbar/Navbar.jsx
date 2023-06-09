@@ -9,7 +9,7 @@ import jsPDF from 'jspdf';
 export default function Navbar() {
 
 
-    const PDF_FILE_URL = "https://docs.google.com/document/d/1qxTAhO8hENN98lt5tJIf79RlP1cTXzakU4ZWDyDNNkM/edit#/file_pdf.pdf";
+    const PDF_FILE_URL = "https://docs.google.com/document/d/1VXrFbu5Y35j1ZxWWqFwJdtqlKNI_vDB_8TdZkc4UYZ4/edit?pli=1#/file_pdf.pdf";
 
     const [toggle, setToggle] = useState(false);
 
